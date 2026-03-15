@@ -1,6 +1,8 @@
 # Desenvolvimento Mobile em React Native e Expo
 ## AppNotas, aplicação que calcula média de 4 notas
 ### Aplicativo com desenvolvimento de algoritmo estruturado 
+O aplicativo recebe 4 notas e calcula a média. Retornando "REPROVADO" com média inferior a 5.0,
+"RECUPERAÇÃO" com média entre 5.0 e 5.9 e "APROVADO" com média maior ou igual a 6.0
 
 - Telas do aplicativo
 
